@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286f8873-f135-484e-b32e-610eba9918ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Cwiczenia$numbers.ic" NAME="numbers Coverage Results" MODIFIED="1549928192219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Numbers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Cwiczenia$strings.ic" NAME="strings Coverage Results" MODIFIED="1549928090615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Cwiczenia$controls.ic" NAME="controls Coverage Results" MODIFIED="1549978249602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Controls.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Cwiczenia$All_Features_in__scala.ic" NAME="All Features in: scala Coverage Results" MODIFIED="1549927991419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Cwiczenia$All_Features_in__Controls.ic" NAME="All Features in: Controls Coverage Results" MODIFIED="1549926511402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Cwiczenia$CubeCalculator.ic" NAME="CubeCalculator Coverage Results" MODIFIED="1549928211604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Cwiczenia" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Cwiczenia" type="f1a62948:ProjectNode" />
+                <item name="Cwiczenia" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Cwiczenia" type="f1a62948:ProjectNode" />
+                <item name="cwiczenia-build" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Cwiczenia" type="f1a62948:ProjectNode" />
+                <item name="cwiczenia-build" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Cwiczenia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Concurrency/Actors.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="815">
+              <caret line="160" column="21" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+              <folding>
+                <element signature="e#21#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Concurrency/Futures.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+              <folding>
+                <element signature="e#21#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Strings/strings.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toInt</find>
+      <find>time</find>
+      <find>Option</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/main.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/cw1MainTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cw1/main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Strings/strings.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/Numbers/numbersTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/CubeCalculatorTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/ControlsTest/controlsTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/controlsTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/Strings/stringsTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/Controls/controlsTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Classes/classes.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Classes/classes2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Traits/Traits.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Functions/Functions.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/newtons.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Controls/controls.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Collections/Collections.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CollectionsInDetail.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CollectionsInDetail/CollectionsInDetail.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Numbers/numbers.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/FIles/Files.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CubeCalculator.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Files/Files.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/Concurrency/Concurrency.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Concurrency/Actors.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Concurrency/Futures.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionsInDetail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Controls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553685360590" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.FunSuite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laby_Zadania" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Controls" />
+      <recent name="Strings" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FunSuite" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="CollectionsInDetail" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Concurrency">
+    <configuration name="Collections" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Collections" />
+      <module name="Cwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsInDetail" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsInDetail.CollectionsInDetail" />
+      <module name="Cwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsInDetail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concurrency" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency.Actors" />
+      <module name="Cwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Files" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Files.Files" />
+      <module name="Cwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Futures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency.Futures" />
+      <module name="Cwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Collections" />
+      <item itemvalue="Application.CollectionsInDetail" />
+      <item itemvalue="Application.Files" />
+      <item itemvalue="Application.Concurrency" />
+      <item itemvalue="Application.Futures" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Concurrency" />
+        <item itemvalue="Application.Futures" />
+        <item itemvalue="Application.Files" />
+        <item itemvalue="Application.CollectionsInDetail" />
+        <item itemvalue="Application.Collections" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Cwiczenia" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="cwiczenia [file:/C:/Users/BlinkFrozen/IdeaProjects/Cwiczenia/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Cwiczenia-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3102746618381" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2621780269" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286f8873-f135-484e-b32e-610eba9918ae" name="Default Changelist" comment="" />
+      <created>1549718726062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549718726062</updated>
+      <workItem from="1549718730305" duration="18856000" />
+      <workItem from="1549893609178" duration="5974000" />
+      <workItem from="1549903591132" duration="15237000" />
+      <workItem from="1549991412526" duration="79000" />
+      <workItem from="1549991510104" duration="63000" />
+      <workItem from="1549991633693" duration="78000" />
+      <workItem from="1549991723559" duration="55000" />
+      <workItem from="1549991797916" duration="32000" />
+      <workItem from="1549991856378" duration="2490000" />
+      <workItem from="1550776732086" duration="160000" />
+      <workItem from="1550786456019" duration="3641000" />
+      <workItem from="1550872834133" duration="76000" />
+      <workItem from="1550958733897" duration="278000" />
+      <workItem from="1551004987525" duration="6311000" />
+      <workItem from="1551086979805" duration="3364000" />
+      <workItem from="1551112301842" duration="2770000" />
+      <workItem from="1551217145086" duration="1261000" />
+      <workItem from="1551303391147" duration="3818000" />
+      <workItem from="1551380067093" duration="1518000" />
+      <workItem from="1551528928124" duration="30213000" />
+      <workItem from="1551978361065" duration="2000" />
+      <workItem from="1552336495780" duration="1239000" />
+      <workItem from="1552402829695" duration="4920000" />
+      <workItem from="1552575967471" duration="20000" />
+      <workItem from="1552576061262" duration="7488000" />
+      <workItem from="1552826411532" duration="138000" />
+      <workItem from="1553009856834" duration="22621000" />
+      <workItem from="1553429019634" duration="1673000" />
+      <workItem from="1553462349946" duration="2000" />
+      <workItem from="1553632629112" duration="1867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="controlsTest - 2019.02.12 at 00h 26m 43s.xml">
+      <configuration name="controlsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="controlsTest - 2019.02.12 at 00h 29m 22s.xml">
+      <configuration name="controlsTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 29m 31s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 30m 01s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 30m 23s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 30m 51s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 30m 57s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="controlsTest_(1) - 2019.02.12 at 00h 32m 12s.xml">
+      <configuration name="controlsTest (1)" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 32m 23s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__scala - 2019.02.12 at 00h 33m 12s.xml">
+      <configuration name="All Features in: scala" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136244000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.12846482" />
+      <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.501634" side_tool="true" weight="0.25382933" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" show_stripe_button="false" sideWeight="0.501634" side_tool="true" weight="0.25382933" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" show_stripe_button="false" weight="0.32932165" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.35448578" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989059" weight="0.27929902" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.49786323" weight="0.32603937" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32968238" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.32822758" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32719395" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50213677" side_tool="true" weight="0.3274918" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24945295" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24835886" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="4" show_stripe_button="false" weight="0.32932165" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" show_stripe_button="false" weight="0.32932165" />
+      <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32932165" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.49671772" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cw1/main/scala.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/main.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/cw1MainTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cw1/main.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Numbers.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Numbers/numbersTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/ControlsTest/controlsTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Strings/stringsTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/controlsTest.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/CubeCalculatorTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/Controls/controlsTest.scala" />
+    <entry file="file://$USER_HOME$/Warsztaty/fp-concurrency-101/exercises/src/main/scala/exercises/Exercises.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Classes/classes2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Traits/Traits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/PartialFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1547">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/newtons.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Functions/Functions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CollectionsInDetail.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Collections/Collections.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CubeCalculator.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Files/Files.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Numbers/numbers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Controls/controls.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CollectionsInDetail/CollectionsInDetail.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Concurrency/Actors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="160" column="21" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+          <folding>
+            <element signature="e#21#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Concurrency/Futures.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding>
+            <element signature="e#21#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Classes/classes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Strings/strings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>java-1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Cwiczenia</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
